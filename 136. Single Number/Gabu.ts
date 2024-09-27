@@ -26,3 +26,6 @@ function singleNumber2(nums: number[]): number {
 
     return uni[0]
 };
+
+//https://leetcode.com/problems/single-number/submissions/1404153307
+//https://leetcode.com/problems/single-number/submissions/1404171381
